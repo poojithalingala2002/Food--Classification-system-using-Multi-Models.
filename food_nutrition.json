@@ -1,0 +1,240 @@
+{
+    "chicken_curry": {
+        "calories": 320,
+        "carbohydrates_g": 12,
+        "protein_g": 27,
+        "fat_g": 18,
+        "fiber_g": 2
+    },
+    "samosa": {
+        "calories": 260,
+        "carbohydrates_g": 32,
+        "protein_g": 6,
+        "fat_g": 13,
+        "fiber_g": 3
+    },
+    "Sandwich": {
+        "calories": 250,
+        "carbohydrates_g": 30,
+        "protein_g": 10,
+        "fat_g": 9,
+        "fiber_g": 4
+    },
+    "Donut": {
+        "calories": 280,
+        "carbohydrates_g": 35,
+        "protein_g": 4,
+        "fat_g": 15,
+        "fiber_g": 1
+    },
+    "kadai_paneer": {
+        "calories": 340,
+        "carbohydrates_g": 14,
+        "protein_g": 18,
+        "fat_g": 24,
+        "fiber_g": 3
+    },
+    "kaathi_rolls": {
+        "calories": 330,
+        "carbohydrates_g": 35,
+        "protein_g": 15,
+        "fat_g": 14,
+        "fiber_g": 4
+    },
+    "cheesecake": {
+        "calories": 420,
+        "carbohydrates_g": 32,
+        "protein_g": 7,
+        "fat_g": 30,
+        "fiber_g": 1
+    },
+    "Taco": {
+        "calories": 210,
+        "carbohydrates_g": 20,
+        "protein_g": 9,
+        "fat_g": 10,
+        "fiber_g": 3
+    },
+    "dhokla": {
+        "calories": 160,
+        "carbohydrates_g": 20,
+        "protein_g": 8,
+        "fat_g": 5,
+        "fiber_g": 4
+    },
+    "paani_puri": {
+        "calories": 180,
+        "carbohydrates_g": 28,
+        "protein_g": 4,
+        "fat_g": 6,
+        "fiber_g": 3
+    },
+    "pav_bhaji": {
+        "calories": 400,
+        "carbohydrates_g": 45,
+        "protein_g": 10,
+        "fat_g": 20,
+        "fiber_g": 6
+    },
+    "jalebi": {
+        "calories": 300,
+        "carbohydrates_g": 45,
+        "protein_g": 3,
+        "fat_g": 12,
+        "fiber_g": 0
+    },
+    "Fries": {
+        "calories": 365,
+        "carbohydrates_g": 48,
+        "protein_g": 4,
+        "fat_g": 17,
+        "fiber_g": 4
+    },
+    "burger": {
+        "calories": 350,
+        "carbohydrates_g": 30,
+        "protein_g": 17,
+        "fat_g": 18,
+        "fiber_g": 3
+    },
+    "omelette": {
+        "calories": 190,
+        "carbohydrates_g": 2,
+        "protein_g": 12,
+        "fat_g": 15,
+        "fiber_g": 0
+    },
+    "Hot Dog": {
+        "calories": 290,
+        "carbohydrates_g": 23,
+        "protein_g": 11,
+        "fat_g": 18,
+        "fiber_g": 1
+    },
+    "Taquito": {
+        "calories": 210,
+        "carbohydrates_g": 20,
+        "protein_g": 8,
+        "fat_g": 11,
+        "fiber_g": 2
+    },
+    "pizza": {
+        "calories": 285,
+        "carbohydrates_g": 36,
+        "protein_g": 12,
+        "fat_g": 10,
+        "fiber_g": 2
+    },
+    "pakode": {
+        "calories": 220,
+        "carbohydrates_g": 18,
+        "protein_g": 6,
+        "fat_g": 14,
+        "fiber_g": 3
+    },
+    "dal_makhani": {
+        "calories": 300,
+        "carbohydrates_g": 22,
+        "protein_g": 14,
+        "fat_g": 18,
+        "fiber_g": 6
+    },
+    "apple_pie": {
+        "calories": 320,
+        "carbohydrates_g": 45,
+        "protein_g": 3,
+        "fat_g": 14,
+        "fiber_g": 3
+    },
+    "Crispy Chicken": {
+        "calories": 360,
+        "carbohydrates_g": 15,
+        "protein_g": 25,
+        "fat_g": 22,
+        "fiber_g": 1
+    },
+    "ice_cream": {
+        "calories": 210,
+        "carbohydrates_g": 24,
+        "protein_g": 4,
+        "fat_g": 11,
+        "fiber_g": 0
+    },
+    "butter_naan": {
+        "calories": 260,
+        "carbohydrates_g": 35,
+        "protein_g": 7,
+        "fat_g": 10,
+        "fiber_g": 2
+    },
+    "kulfi": {
+        "calories": 280,
+        "carbohydrates_g": 30,
+        "protein_g": 6,
+        "fat_g": 15,
+        "fiber_g": 0
+    },
+    "chai": {
+        "calories": 90,
+        "carbohydrates_g": 10,
+        "protein_g": 3,
+        "fat_g": 4,
+        "fiber_g": 0
+    },
+    "Baked Potato": {
+        "calories": 160,
+        "carbohydrates_g": 37,
+        "protein_g": 4,
+        "fat_g": 0,
+        "fiber_g": 4
+    },
+    "sushi": {
+        "calories": 200,
+        "carbohydrates_g": 28,
+        "protein_g": 9,
+        "fat_g": 5,
+        "fiber_g": 2
+    },
+    "masala_dosa": {
+        "calories": 310,
+        "carbohydrates_g": 45,
+        "protein_g": 8,
+        "fat_g": 10,
+        "fiber_g": 4
+    },
+    "idli": {
+        "calories": 70,
+        "carbohydrates_g": 14,
+        "protein_g": 3,
+        "fat_g": 0.5,
+        "fiber_g": 1
+    },
+    "momos": {
+        "calories": 220,
+        "carbohydrates_g": 30,
+        "protein_g": 10,
+        "fat_g": 8,
+        "fiber_g": 2
+    },
+    "chole_bhature": {
+        "calories": 450,
+        "carbohydrates_g": 50,
+        "protein_g": 15,
+        "fat_g": 22,
+        "fiber_g": 8
+    },
+    "fried_rice": {
+        "calories": 330,
+        "carbohydrates_g": 45,
+        "protein_g": 9,
+        "fat_g": 12,
+        "fiber_g": 3
+    },
+    "chapati": {
+        "calories": 120,
+        "carbohydrates_g": 18,
+        "protein_g": 4,
+        "fat_g": 3,
+        "fiber_g": 3
+    }
+}
